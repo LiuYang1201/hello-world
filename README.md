@@ -1,2 +1,6 @@
 # hello-world
-Just a repository
+
+Hi everyone!
+
+I'm a student and I know nothing!
+
